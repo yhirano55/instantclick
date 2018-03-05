@@ -9,5 +9,7 @@
   "author": "Yoshiyuki Hirano",
   "license": "MIT",
   "dependencies": {
+    "webpack": "^4.1.0",
+    "webpack-cli": "^2.0.10"
   }
 }
